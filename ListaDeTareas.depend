@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1682204613 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\proyectoranking\ranking\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1682114606 c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\proyectoranking\ranking\fecha.h
+	<string>
+
+1682353788 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\proyectoranking\listadetareas\main.cpp
+	<iostream>
+	"../Ranking/Fecha.h"
+	"Tarea.h"
+	"ListaDeTarea.h"
+
+1682353979 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\proyectoranking\listadetareas\src\listadetarea.cpp
+	"ListaDeTarea.h"
+	<iostream>
+
+1682353765 c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\proyectoranking\listadetareas\include\listadetarea.h
+	"Tarea.h"
+
+1682352334 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\proyectoranking\listadetareas\src\tarea.cpp
+	"Tarea.h"
+	<iostream>
+
+1682355140 c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\proyectoranking\listadetareas\include\tarea.h
+	"../../Ranking/Fecha.h"
+	"Etiqueta.h"
+
+1682445880 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\main.cpp
+	<iostream>
+	<Fecha.h>
+	"Tarea.h"
+	"ListaDeTarea.h"
+
+1682445756 c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\include\tarea.h
+	"Fecha.h"
+	"Etiqueta.h"
+
+1682353765 c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\include\listadetarea.h
+	"Tarea.h"
+
+1682353979 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\src\listadetarea.cpp
+	"ListaDeTarea.h"
+	<iostream>
+
+1682446030 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\src\tarea.cpp
+	"Tarea.h"
+	<iostream>
+
+1682114606 c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\include\fecha.h
+	<string>
+
+1682355140 c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\include\etiqueta.h
+
+1682355169 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\src\etiqueta.cpp
+	<iostream>
+	"Etiqueta.h"
+
+1682204613 source:c:\users\gera-\onedrive\escritorio\escritorio\lab 2023\listadetareas\src\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
